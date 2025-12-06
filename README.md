@@ -1,8 +1,12 @@
 ## Hi there 👋
+My name is Shubham Singh Rawat
+Recent graduate with a strong foundation in data analysis and machine learning. 
+Proficient in Python, SQL, Excel, and data visualization tools such as Power BI. 
+- 🌱 I’m currently learning Data Analytics (Excel, SQL, Power BI, Python)
+- 💬 Ask me about Data cleaning, dashboards, SQL queries, ML basics (regression, classification), and Python analytics
+- 📫 How to reach me: shubhamrawat897905@gmail.com
 
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 <!--
 **ShubhamSinghRawat0007/ShubhamSinghRawat0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
